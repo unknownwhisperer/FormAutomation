@@ -6,3 +6,5 @@ How to Run
 3. type "export FLASK_APP=app.py"
 4. type "export FLASK_ENV=development"
 5. type "flask run"
+
+note: for windowsOS based use "set" instead "export"
